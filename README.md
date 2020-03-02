@@ -1,5 +1,4 @@
 
- <div id="story">
 <div align="center"><img src="images/stibitz_portrait2.jpg" alt="Konrad Zuse, the creator of the first relay computer" width="250" height="380" /></div>
 <h3>Relay computers of George Stibitz</h3>
 <p>The <em>Bell Telephone Laboratories</em> was incorporated in 1925 as the basic research facility for the Bell System. Thus began an institution that has become synonymous with fundamental and exciting research at the frontiers of physics, chemistry and other branches of modern science. In this exciting place during the next several decades will be made a lot of researches, which will bring to several inventors a Nobel prize. A lot of inventions in the field of computers will be made also here, let's mention only the first logical schemes with diodes (1942), point transistor (1947), first fully transistor computer (TRADIC, 1955), first modem (1960), first single-chip 32-bit processor (1980), operating system UNIX (1969), programming language C (1973) and C++ (1983), etc.</p>
@@ -104,27 +103,3 @@ its priorities toward military projects that involved more computation than its 
   </tr>
 </table>
 <p>Bell Labs called this system a "bi-quinary" notation, since the relays had a weight of either one or five. Actually, it is not a combination of those number bases; rather, it is a seven-bit, mixed decimal code. All the Bell Labs relay computers worked in decimal arithmetic. A special circuit checked to see that two and only two relays were energized for each decimal digit. Another circuit checked that for each group one and only one relay was on&#8212;that prevented two separate errors from canceling each other out, although certain unusual combinations of malfunctions could go undetected.</p> 
-
-
-<form><input type="button" value=" &lt;-- More Relays " onclick="parent.location='../Relays/RelaysComputer.html'" />
-<img src="../../images/empty.gif" width="326" height="1" />
-<input type="button" value="HOME --&gt;" onclick="parent.location='../index.html'" /></form> 
-</div>
-</div>
-    <div class="footer">
-      <div class="footer-logo">      
-        <a href="https://history-computer.com">
-          <img src="https://history-computer.com/images/logo.png">
-        </a>
-      </div>
-      <div class="link">
-        <li><a href="https://history-computer.com/privacy.html">Privacy</a></li>
-
-
-      </div>
-    </div>
-
-
-
-   <!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
