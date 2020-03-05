@@ -1,6 +1,6 @@
 
 <div align="center"><img src="https://history-computer.com/ModernComputer/Relays/images/stibitz_portrait2.jpg" alt="Konrad Zuse, the creator of the first relay computer" width="250" height="380" /></div>
-<h3>Relay computers of George Stibitz</h3>
+<h3>斯蒂比茲的繼電器計算機</h3>
 <p>貝爾電話實驗室在1925年被合併並被當作貝爾系統一個基本的研究設施，進而轉變成一個先鋒進行著基礎卻又讓人興奮的各類物理、化學或其他現代科學研究之代名詞，在接下來的幾十年裡，這個快樂天堂裡的研究員會做出一大堆的研究，順便給他抱回幾個諾貝爾獎來，幾個像是初次出現二極體的構想(1942)、點電晶體(1947)、第一個全電晶體電腦(叫TRADIC,1955)、第一台數據機(1960)、第一個32位元的單晶片處理器(1980)、UNIX作業系統(1969)、C語言(1973)，C++(1983)之類根電腦有關的東西都會在這破地方被做出來。
 在1937年11月的酉時，喬治•斯蒂比茲，一位貝爾研究室的數學研究員，他從倉庫摸了兩個電話繼電器、一對手電筒燈泡、一條無聊的電線跟一顆乾電池然後下班回家去，之後他到他家廚房去，想用他從公司幹回來的東西弄出一個邏輯設備，然後他還真的給他弄出來了，那東西就是第一個二元繼電加法器，他上面亮燈代表1，沒亮代表0，他老婆把那個裝置取名叫K號模型(因為他在廚房(kitchen)弄出來的)。第二天，斯蒂比茲把他的K號模型戴去給他的好同事們看，那些人就覺得說ㄟ用繼電器做一個完全體的計算機好像是可行的齁，但他們也想到說真的要做的話可能要用到上百個繼電器，這會讓那東西比現在實驗室裡用的機械計算機還來得貴又笨重，</p>
 
@@ -94,7 +94,7 @@
   </tr>
 </table>
 <p>貝爾實驗室稱此系統為“二元”表示法，因為繼電器的權重為一或五。 實際上，它不是這些數字基礎的組合； 而是一個七位混合十進制代碼。 所有的貝爾實驗室中繼計算機都以十進制算法工作。 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。 另一個電路檢查每個組只有一個繼電器導通，這可以防止兩個單獨的錯誤相互抵消，儘管某些異常組合可能無法檢測到。</p> 
-<p>生字
+<p>生字<>
 incorporated 合併 institution 機構 synonymous同義 fundamental基本 frontiers 邊疆 branches 分支 schemes 構想 diodes二極體 point transistor 點電晶體(?) modem 數據機 stockroom 倉庫
 dry cell 乾電池 speculated   推測 arithmetic 算數 bulkier龐大 sequence 順序 circuits 電路 interim 臨時
 elsewhere 別處frequently經常filter 濾波器 amplifier放大電路 quotients 商數 straightforward 直接
