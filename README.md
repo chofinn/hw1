@@ -94,7 +94,7 @@
   </tr>
 </table>
 <p>貝爾實驗室稱此系統為“二元”表示法，因為繼電器的權重為一或五。 實際上，它不是這些數字基礎的組合； 而是一個七位混合十進制代碼。 所有的貝爾實驗室中繼計算機都以十進制算法工作。 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。 另一個電路檢查每個組只有一個繼電器導通，這可以防止兩個單獨的錯誤相互抵消，儘管某些異常組合可能無法檢測到。</p> 
-<p>生字<>
+<p>生字<br>
 incorporated 合併 institution 機構 synonymous同義 fundamental基本 frontiers 邊疆 branches 分支 schemes 構想 diodes二極體 point transistor 點電晶體(?) modem 數據機 stockroom 倉庫
 dry cell 乾電池 speculated   推測 arithmetic 算數 bulkier龐大 sequence 順序 circuits 電路 interim 臨時
 elsewhere 別處frequently經常filter 濾波器 amplifier放大電路 quotients 商數 straightforward 直接
